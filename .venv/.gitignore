@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.log
+*.env
+venv/
+
+# Данные и кэш
+shikimori_cache.json
+
+# Конфиденциальные данные
+config.py
+*.token
